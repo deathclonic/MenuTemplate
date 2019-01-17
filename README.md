@@ -34,3 +34,15 @@ Gameplay menu
 FOV https://youtu.be/sL9qwSsadB8
 
 Sensitivity https://youtu.be/9iwiL4kUF9U 
+
+-Screenshots-
+https://i.imgur.com/BElQnwC.png
+https://i.imgur.com/MXzM0ky.png
+https://i.imgur.com/Bo1mEKr.png
+https://i.imgur.com/urLD3Ee.png
+https://i.imgur.com/I6Syxfv.png
+https://i.imgur.com/ByU9xVX.png
+https://i.imgur.com/XQms0Nb.png
+https://i.imgur.com/xwyvUA3.jpg
+https://i.imgur.com/okWnLZj.jpg
+
