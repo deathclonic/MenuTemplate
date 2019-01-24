@@ -36,6 +36,8 @@ FOV https://youtu.be/sL9qwSsadB8
 
 Sensitivity https://youtu.be/9iwiL4kUF9U 
 
+Create cubmaps from within the engine https://answers.unrealengine.com/questions/126970/blueprint-possible-to-create-a-cubemap-file-from-c.html
+
 -Screenshots-
 
 https://i.imgur.com/BElQnwC.png
