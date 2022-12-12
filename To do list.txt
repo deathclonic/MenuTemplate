@@ -1,0 +1,16 @@
+[Widgets]
+Create the new switcher widget prefabs and replace all the old ones
+
+Add all the video options
+
+[Enhanced input]
+
+Figure out how to filter for gamepad keys with the new enhanced input keys
+
+Add the new deadzone sliders
+
+Add the new analog stick/mouse inversion toggles
+
+Add the new sensitivity sliders for analog sticks and the mouse
+
+Add all the keybinds for each keyboard/gamepad input
