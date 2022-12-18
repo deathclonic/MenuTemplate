@@ -2,7 +2,7 @@
 
 Add all the video options
 
-
+-----
 [Enhanced input]
 
 Figure out how to filter for gamepad keys with the new enhanced input keys
@@ -14,3 +14,9 @@ Add the new analog stick/mouse inversion toggles
 Add the new sensitivity sliders for analog sticks and the mouse
 
 Add all the keybinds for each keyboard/gamepad input
+
+-----
+
+Make a bool to make the HUD fade
+
+Make generic looking buttons and widget prefabs
