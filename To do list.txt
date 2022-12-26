@@ -20,3 +20,7 @@ Add all the keybinds for each keyboard/gamepad input
 Make a bool to make the HUD fade
 
 Make generic looking buttons and widget prefabs
+
+Make a data table for all the default config settings. Rather than using the game instance
+
+Check music and audio
