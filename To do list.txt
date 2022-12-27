@@ -1,5 +1,7 @@
 [Widgets]
 
+clean and comment
+
 Add all the video options
 
 -----
@@ -17,7 +19,7 @@ Add all the keybinds for each keyboard/gamepad input
 
 -----
 
-Make a bool to make the HUD fade
+Make a bool to fade the HUD
 
 Make generic looking buttons and widget prefabs
 
