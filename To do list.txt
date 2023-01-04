@@ -5,23 +5,18 @@ clean and comment
 Add all the video options
 
 -----
-[Enhanced input]
-
-Figure out how to filter for gamepad keys with the new enhanced input keys
-
-Add the new deadzone sliders
-
-Add the new analog stick/mouse inversion toggles
-
-Add the new sensitivity sliders for analog sticks and the mouse
+[Input]
 
 Add all the keybinds for each keyboard/gamepad input
 
+Gamepad input is very fast when navigating
+
 -----
+[Other]
 
 Make a bool to fade the HUD
 
-Make generic looking buttons and widget prefabs
+(cosmetic) Make generic looking buttons and widget prefabs
 
 Make a data table for all the default config settings. Rather than using the game instance
 
