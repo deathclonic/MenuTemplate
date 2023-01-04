@@ -9,7 +9,7 @@ Add all the video options
 
 Add all the keybinds for each keyboard/gamepad input
 
-Gamepad input is very fast when navigating
+Gamepad remapping is broken. Somehow remapped the pause key??
 
 -----
 [Other]
