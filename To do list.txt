@@ -1,23 +1,17 @@
 [Widgets]
 
-clean and comment
-
 Add all the video options
 
------
-[Input]
 
-Add all the keybinds for each keyboard/gamepad input
-
-Gamepad remapping is broken. Somehow remapped the pause key??
-
------
 [Other]
-
-Make a bool to fade the HUD
-
-(cosmetic) Make generic looking buttons and widget prefabs
 
 Make a data table for all the default config settings. Rather than using the game instance
 
-Check music and audio
+Make the template easier to integrate from one project to another (This might take too long)
+
+
+[Cosmetic]
+
+Make a bool to fade the HUD
+
+Make generic looking buttons and widget prefabs
