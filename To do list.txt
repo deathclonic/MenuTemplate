@@ -9,6 +9,10 @@ Make a data table for all the default config settings. Rather than using the gam
 
 Make the template easier to integrate from one project to another (This might take too long)
 
+show FPS text for the HUD
+
+Menu music keeps restarting when going back to the main menu
+
 
 [Cosmetic]
 
