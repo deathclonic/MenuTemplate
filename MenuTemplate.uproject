@@ -3,7 +3,14 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
