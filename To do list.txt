@@ -1,21 +1,3 @@
-[Widgets]
-
-Add all the video options
-
-
-[Other]
-
-Make a data table for all the default config settings. Rather than using the game instance
-
-Make the template easier to integrate from one project to another (This might take too long)
-
-show FPS text for the HUD
-
-Menu music keeps restarting when going back to the main menu
-
-
-[Cosmetic]
-
-Make a bool to fade the HUD
-
-Make generic looking buttons and widget prefabs
+Create main menu game mode/character
+Level select system
+Finish the save slot system
