@@ -1,3 +1,5 @@
-Create main menu game mode/character
-Level select system
 Finish the save slot system
+
+Audio settings
+
+Video settings
