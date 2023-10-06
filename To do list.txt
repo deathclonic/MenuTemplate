@@ -1,5 +1,0 @@
-Finish the save slot system
-
-Audio settings
-
-Video settings
