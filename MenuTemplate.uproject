@@ -1,16 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.3",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "CommonUI",
-			"Enabled": true
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
 		}
-	],
-	"TargetPlatforms": [
-		"Windows",
-		"HoloLens"
 	]
 }
